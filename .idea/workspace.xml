@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="671017b6-c8b8-497a-9791-a69397628285" name="Changes" comment="Задание 1-2 &quot;Создание человека&quot;;" />
+    <list default="true" id="671017b6-c8b8-497a-9791-a69397628285" name="Changes" comment="Задание 1-2 &quot;Создание человека&quot;;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Human.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/GrantDit/IdeaProjects/object"
+    "last_opened_file_path": "C:/Users/GrantDit/IdeaProjects/Object people"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,7 +50,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670977350158</updated>
-      <workItem from="1670977352539" duration="1784000" />
+      <workItem from="1670977352539" duration="1919000" />
+      <workItem from="1670979371080" duration="1210000" />
+      <workItem from="1671107147942" duration="714000" />
+      <workItem from="1671109311813" duration="338000" />
+      <workItem from="1671546026943" duration="613000" />
+      <workItem from="1671546720164" duration="1504000" />
+      <workItem from="1671554327033" duration="17000" />
+      <workItem from="1671554364804" duration="5550000" />
+      <workItem from="1671560533675" duration="822000" />
     </task>
     <task id="LOCAL-00001" summary="Задание 1-2 &quot;Создание человека&quot;;">
       <created>1670979018721</created>
@@ -56,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670979018721</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Задание 1-2 &quot;Создание человека&quot;;">
+      <created>1670979216717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670979216717</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
